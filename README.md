@@ -1,2 +1,2 @@
-# moontoken
+# Moon Inc
 Moon Smart Contract
